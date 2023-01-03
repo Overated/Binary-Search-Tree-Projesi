@@ -1,15 +1,17 @@
-# **Binary Search Tree Projesi**
+# **Binary Search Tree Project**
 
 Bu repo [Patica.dev](https://www.patika.dev/tr) Veri Yapıları ve Algoritmalar Eğitiminde oluşturduğumuz Binary Search Tree Projesi reposudur. İçerisinde bir adet README dosyası barındırmaktadır.
 
 ## **Soru**
+
 Proje 3
 [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 ## **Cevap**
-Binary search için her aramada root seçilen verinin **sol** tarafında küçük verileri, **sağ** tarafında büyük verileri yazma şartı aranır. 
+
+Binary search için her aramada root seçilen verinin **sol** tarafında küçük verileri, **sağ** tarafında büyük verileri yazma şartı aranır.
 Root elemanımız **7** olarak seçersek;
 
 1. **Adım**
@@ -72,9 +74,10 @@ Dizimizin son hali aşağıdaki gibi olacaktır.
 
 ![adım10](https://raw.githubusercontent.com/Overated/Binary-Search-Tree-Projesi/main/image/final.png)
 
-
 # Contributing
+
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
 # License
+
 [MIT](https://choosealicense.com/licenses/mit/)
